@@ -1,3 +1,3 @@
 # mypython
 first project
-Heloo
+print("heloo")
